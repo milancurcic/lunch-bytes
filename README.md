@@ -11,6 +11,8 @@ Schedule:
 
 * **October 21**: TBD
 
+* **October 28**: TBD
+
 * **November 4**: TBD
 
 * **November 11**: TBD
