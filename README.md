@@ -7,7 +7,7 @@ When: Every Wednesday, 12-1 pm
 
 Schedule:
 
-* **October 14**: *Natalie Perlin - Introduction to UM CCS and Pegasus supercomputer*
+* **October 14**: *Natalie Perlin (RSMAS/CCS) - Introduction to UM CCS and Pegasus supercomputer*
 
 * **October 21**: TBD
 
