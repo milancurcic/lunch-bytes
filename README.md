@@ -1,5 +1,7 @@
 ## lunch-bytes
-lunch-bytes - a UM/RSMAS computing seminar series
+lunch-bytes - a UM/RSMAS computing seminar series that aim to provide an informal
+forum for RSMAS students, researchers, and faculty to discuss and exchange knowledge
+on various computing topics, tools, and programming languages.
 
 Where: MSC329
 
