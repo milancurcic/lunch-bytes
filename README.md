@@ -23,4 +23,4 @@ Schedule:
 
 * **November 25**: TBD
 
-* **December 2**: TBD
+* **December 2**: *Falko Judt (RSMAS) - Data analysis and high quality graphics with NCAR Command Language (NCL)*
