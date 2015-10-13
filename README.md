@@ -11,7 +11,7 @@ Schedule:
 
 * **October 14**: *Natalie Perlin (RSMAS/CCS) - Introduction to UM CCS and Pegasus supercomputer*
 
-* **October 21**: TBD
+* **October 21**: *Dian Putrasahan (RSMAS) - Handling large data sets using Climate Data Operators (CDO)*
 
 * **October 28**: TBD
 
