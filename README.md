@@ -9,7 +9,7 @@ When: Every Wednesday, 12-1 pm
 
 Schedule:
 
-* **October 14**: *Natalie Perlin (RSMAS/CCS) - Introduction to UM CCS and Pegasus supercomputer*
+* **October 14**: *Natalie Perlin (RSMAS/CCS) - [Introduction to UM CCS and Pegasus supercomputer](https://github.com/milancurcic/lunch-bytes/tree/master/LB01)*
 
 * **October 21**: *Dian Putrasahan (RSMAS) - Handling large data sets using Climate Data Operators (CDO)*
 
