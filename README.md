@@ -13,13 +13,13 @@ Schedule:
 
 * **October 21**: *Dian Putrasahan (RSMAS) - Handling large data sets using Climate Data Operators (CDO)*
 
-* **October 28**: *Leo Siqueira (RSMAS) - *Title TBD*
+* **October 28**: *Leo Siqueira (RSMAS) - Title TBD*
 
 * **November 4**: TBD
 
 * **November 11**: TBD
 
-* **November 18**: TBD
+* **November 18**: *Macarena Ortiz and Juan Pinales (RSMAS) - Title TBD*
 
 * **November 25**: TBD
 
