@@ -13,13 +13,15 @@ Schedule:
 
 * **October 21**: *Dian Putrasahan (RSMAS) - Handling large data sets using Climate Data Operators (CDO)*
 
-* **October 28**: *Leo Siqueira (RSMAS) - Title TBD*
+* **October 28**: *Leo Siqueira (RSMAS) - Title TBD (Python)*
 
 * **November 4**: TBD
 
 * **November 11**: TBD
 
-* **November 18**: *Macarena Ortiz and Juan Pinales (RSMAS) - Title TBD*
+* **November 18**: *Macarena Ortiz and Juan Pinales (RSMAS) - 
+Machine learning methods for satellite image processing: 
+Neural Networks and Support Vector Machines*
 
 * **November 25**: TBD
 
