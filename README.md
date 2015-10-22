@@ -11,7 +11,7 @@ Schedule:
 
 * **October 14**: *Natalie Perlin (RSMAS/CCS) - [Introduction to UM Center for Computational Science (CCS) and Pegasus supercomputer](https://github.com/milancurcic/lunch-bytes/tree/master/LB01)*
 
-* **October 21**: *Dian Putrasahan (RSMAS) - Handling large data sets using Climate Data Operators (CDO)*
+* **October 21**: *Dian Putrasahan (RSMAS) - [Handling large data sets using Climate Data Operators (CDO)](https://github.com/milancurcic/lunch-bytes/tree/master/LB02)*
 
 * **October 28**: *Leo Siqueira (RSMAS) - Python bytes on spatial-temporal data: Basics and perspectives*
 
