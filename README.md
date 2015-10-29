@@ -13,7 +13,7 @@ Schedule:
 
 * **October 21**: *Dian Putrasahan (RSMAS) - [Handling large data sets using Climate Data Operators (CDO)](https://github.com/milancurcic/lunch-bytes/tree/master/LB02)*
 
-* **October 28**: *Leo Siqueira (RSMAS) - Python bytes on spatial-temporal data: Basics and perspectives*
+* **October 28**: *Leo Siqueira (RSMAS) - [Python bytes on spatial-temporal data: Basics and perspectives](https://github.com/milancurcic/lunch-bytes/tree/master/LB03)*
 
 * **November 4**: TBD
 
