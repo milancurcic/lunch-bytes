@@ -15,7 +15,7 @@ Schedule:
 
 * **October 28**: *Leo Siqueira (RSMAS) - [Python bytes on spatial-temporal data: Basics and perspectives](https://github.com/milancurcic/lunch-bytes/tree/master/LB03)*
 
-* **November 4**: TBD
+* **November 4**: *Milan Curcic (RSMAS) - Introduction to version control using git and Github*
 
 * **November 11**: TBD
 
