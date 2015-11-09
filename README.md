@@ -17,7 +17,7 @@ Schedule:
 
 * **November 4**: *Milan Curcic (RSMAS) - Introduction to version control using git and Github*
 
-* **November 11**: *Johnna Infanti (RSMAS) - Introduction to Grid Analysis and Display System (GrADS)*
+* **November 11**: *Johnna Infanti (RSMAS) - Introduction and Tutorial on NASA GISS Panoply and the Grid Analysis and Display System (GrADS)*
 
 * **November 18**: *Macarena Ortiz and Juan Pinales (RSMAS) - 
 Machine learning methods for satellite image processing: 
