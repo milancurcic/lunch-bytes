@@ -17,12 +17,12 @@ Schedule:
 
 * **November 4**: *Milan Curcic (RSMAS) - Introduction to version control using git and Github*
 
-* **November 11**: *Johnna Infanti (RSMAS) - Introduction and Tutorial on NASA GISS Panoply and the Grid Analysis and Display System (GrADS)*
+* **November 11**: *Johnna Infanti (RSMAS) - [Introduction and Tutorial on NASA GISS Panoply and the Grid Analysis and Display System (GrADS)](https://github.com/milancurcic/lunch-bytes/tree/master/LB05)*
 
 * **November 18**: *Macarena Ortiz and Juan Pinales (RSMAS) - 
 Machine learning methods for satellite image processing: 
 Neural Networks and Support Vector Machines*
 
-* **November 25**: TBD
+* **November 25**: No seminar (Thanksgiving break)
 
 * **December 2**: *Falko Judt (RSMAS) - Data analysis and high quality graphics with NCAR Command Language (NCL)*
