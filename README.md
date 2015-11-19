@@ -20,8 +20,9 @@ Schedule:
 * **November 11**: *Johnna Infanti (RSMAS) - [Introduction and Tutorial on NASA GISS Panoply and the Grid Analysis and Display System (GrADS)](https://github.com/milancurcic/lunch-bytes/tree/master/LB05)*
 
 * **November 18**: *Macarena Ortiz and Juan Pinales (RSMAS) - 
-Machine learning methods for satellite image processing: 
-Neural Networks and Support Vector Machines*
+[Machine learning methods for satellite image processing: 
+Neural Networks and Support Vector Machines]
+(https://github.com/milancurcic/lunch-bytes/tree/master/LB06)*
 
 * **November 25**: No seminar (Thanksgiving break)
 
