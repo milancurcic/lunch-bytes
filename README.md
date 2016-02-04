@@ -9,21 +9,28 @@ When: Every Wednesday, 12-1 pm
 
 Schedule:
 
-* **October 14**: *Natalie Perlin (RSMAS/CCS) - [Introduction to UM Center for Computational Science (CCS) and Pegasus supercomputer](https://github.com/milancurcic/lunch-bytes/tree/master/LB01)*
+* **February 10**:
 
-* **October 21**: *Dian Putrasahan (RSMAS) - [Handling large data sets using Climate Data Operators (CDO)](https://github.com/milancurcic/lunch-bytes/tree/master/LB02)*
+* **February 17**: *Eleanor Middlemas (RSMAS) - TBD*
 
-* **October 28**: *Leo Siqueira (RSMAS) - [Python bytes on spatial-temporal data: Basics and perspectives](https://github.com/milancurcic/lunch-bytes/tree/master/LB03)*
+* **February 24**: No seminar (Ocean Sciences Meeting)
 
-* **November 4**: *Milan Curcic (RSMAS) - Introduction to version control using git and Github*
+* **March 2**: *Leo Siqueira (RSMAS) - Managing software projects with GNU Make*
 
-* **November 11**: *Johnna Infanti (RSMAS) - [Introduction and Tutorial on NASA GISS Panoply and the Grid Analysis and Display System (GrADS)](https://github.com/milancurcic/lunch-bytes/tree/master/LB05)*
+* **March 9**: No seminar (Spring recess)
 
-* **November 18**: *Macarena Ortiz and Juan Pinales (RSMAS) - 
-[Machine learning methods for satellite image processing: 
-Neural Networks and Support Vector Machines]
-(https://github.com/milancurcic/lunch-bytes/tree/master/LB06)*
+* **March 16**:
 
-* **November 25**: No seminar (Thanksgiving break)
+* **March 23**:
 
-* **December 2**: *Falko Judt (RSMAS) - Data analysis and high quality graphics with NCAR Command Language (NCL)*
+* **March 30**:
+
+* **April 6**: *Andrew Smith (RSMAS) - Coordinate systems and transformations*
+
+* **April 13**:
+
+* **April 20**: *Heather Hunter (RSMAS) - Blogging and science"
+
+* **April 27**: *Leo Siqueira (RSMAS) - Parallel programming with Python*
+
+* **May 4**: *Ajda Savarin (RSMAS) - TBD*
