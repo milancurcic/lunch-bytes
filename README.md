@@ -29,7 +29,7 @@ Schedule:
 
 * **April 13**:
 
-* **April 20**: *Heather Hunter (RSMAS) - Blogging and science"
+* **April 20**: *Heather Hunter (RSMAS) - Blogging in science*
 
 * **April 27**: *Leo Siqueira (RSMAS) - Parallel programming with Python*
 
