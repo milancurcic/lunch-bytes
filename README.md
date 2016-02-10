@@ -25,7 +25,7 @@ Schedule:
 
 * **April 6**: *Andrew Smith (RSMAS) - Coordinate systems and transformations*
 
-* **April 13**:
+* **April 13**: *Ray Bell (RSMAS) - Making waves with Wavewatch III*
 
 * **April 20**: *Heather Hunter (RSMAS) - Blogging in science*
 
