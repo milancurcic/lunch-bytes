@@ -9,7 +9,7 @@ When: Every Wednesday, 12-1 pm
 
 Schedule:
 
-* **February 17**: *Eleanor Middlemas (RSMAS) - MATLAB (details TBD)*
+* **February 17**: *Eleanor Middlemas (RSMAS) - Starship MATLAB*
 
 * **February 24**: No seminar (Ocean Sciences Meeting)
 
@@ -31,4 +31,4 @@ Schedule:
 
 * **April 27**: *Leo Siqueira (RSMAS) - Parallel programming with Python*
 
-* **May 4**: *Ajda Savarin (RSMAS) - TBD*
+* **May 4**: *Ajda Savarin (RSMAS) - HTML, CSS, Bootstrap*
