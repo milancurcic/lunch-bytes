@@ -9,9 +9,7 @@ When: Every Wednesday, 12-1 pm
 
 Schedule:
 
-* **February 10**:
-
-* **February 17**: *Eleanor Middlemas (RSMAS) - TBD*
+* **February 17**: *Eleanor Middlemas (RSMAS) - MATLAB (details TBD)*
 
 * **February 24**: No seminar (Ocean Sciences Meeting)
 
@@ -23,7 +21,7 @@ Schedule:
 
 * **March 23**:
 
-* **March 30**:
+* **March 30**: *Holly Perryman (RSMAS) - LaTeX (details TBD)*
 
 * **April 6**: *Andrew Smith (RSMAS) - Coordinate systems and transformations*
 
