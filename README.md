@@ -9,7 +9,7 @@ When: Every Wednesday, 12-1 pm
 
 Schedule:
 
-* **February 17**: *Eleanor Middlemas (RSMAS) - Starship MATLAB*
+* **February 17**: *Eleanor Middlemas (RSMAS) - [Starship MATLAB - It's not as scary as you think](https://github.com/milancurcic/lunch-bytes/tree/master/Spring_2016/LB08)*
 
 * **February 24**: No seminar (Ocean Sciences Meeting)
 
