@@ -1,17 +1,14 @@
-Speaker: Eleanor Middlemas (RSMAS)
+**Speaker**: Eleanor Middlemas (RSMAS)
 
-Title: STARSHIP MATLAB - It's not as scary as you think
+**Title**: STARSHIP MATLAB - It's not as scary as you think
 
-Summary:
+**Where and when**: MSC 329, 12-1pm, Wednesday, February 17, 2016
 
-All disciplines of science can benefit from using MATLAB.  
-Brian Mapes calls it “STARSHIP MATLAB” because of its enormous spread of functionality.  
-This talk will encourage non-users that MATLAB is indeed useful 
-and give current users a chance to trade ideas about how they use it.  
+**Summary**:
 
-The format of the talk will be primarily open discussion.  
-Current users are encouraged to open the floor with their 
-questions and opinions about the following:
+All disciplines of science can benefit from using MATLAB. Brian Mapes calls it “STARSHIP MATLAB” because of its enormous spread of functionality. This talk will encourage non-users that MATLAB is indeed useful and give current users a chance to trade ideas about how they use it.  
+
+The format of the talk will be primarily open discussion. Current users are encouraged to open the floor with their questions and opinions about the following:
 
 1. Becoming familiar with MATLAB interface
   * Opening code
