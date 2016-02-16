@@ -13,7 +13,7 @@ Schedule:
 
 * **February 24**: No seminar (Ocean Sciences Meeting)
 
-* **March 2**: *Leo Siqueira (RSMAS) - *Save time and `$make` reproducible research, with GNU Make*
+* **March 2**: *Leo Siqueira (RSMAS) - Save time and `$make` reproducible research with GNU Make*
 
 * **March 9**: No seminar (Spring recess)
 
