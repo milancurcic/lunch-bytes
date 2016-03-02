@@ -1,0 +1,67 @@
+# ==========
+
+TARGET = mypaper
+
+PYTHON = python
+TEXCMD := pdflatex -interaction=batchmode
+#TEX_OPTS := -draftmode
+VIEWCMD := open -a Preview
+
+FIGDIR = ./figs
+SCRPDIR = ./scripts
+DATADIR = ./data
+PDFTARGET = $(TARGET).pdf
+PDFFIGS := $(wildcard $(FIGDIR)/*.pdf)
+SCRPS := $(wildcard $(SCRPDIR)/*.py)
+INCLUDEDTEX = $(patsubst %,%.tex,\
+                $(shell grep '^[^%]*\\\(input\|include\){' $(TARGET).tex | \
+                        sed 's/[^{]*{\([^}]*\)}.*/\1/'))
+AUXFILES = $(TARGET).aux
+AUXFILES += $(TARGET).synctex.gz
+AUXFILES += $(TARGET).bbl
+LOGFILES = $(TARGET).log
+LOGFILES += $(TARGET).blg
+BFILES = $(patsubst %,%.bib,\
+                $(shell grep '^[^%]*\\bibliography{' $(TARGET).tex | \
+                        sed -e 's/^[^%]*\\bibliography{\([^}]*\)}.*/\1/' \
+                        -e 's/, */ /g'))
+BIBDEPS = %.bbl
+all: AO_NAO_PNA figures $(PDFTARGET)
+data: AO_NAO_PNA
+paper: $(PDFTARGET)
+
+AO_NAO_PNA:
+	cd $(DATADIR);\
+	wget http://www.cpc.ncep.noaa.gov/products/precip/CWlink/daily_ao_index/monthly.ao.index.b50.current.ascii
+	cd $(DATADIR);\
+	wget http://www.cpc.ncep.noaa.gov/products/precip/CWlink/pna/norm.nao.monthly.b5001.current.ascii
+	cd $(DATADIR);\
+	wget http://www.cpc.ncep.noaa.gov/products/precip/CWlink/pna/norm.pna.monthly.b5001.current.ascii
+
+figures:
+	$(PYTHON) $(SCRPS)
+
+$(PDFFIGS): $(SCRPS)
+	$(PYTHON) $<
+
+$(PDFTARGET): %.pdf: %.tex %.aux $(BIBDEPS) $(INCLUDEDTEX) $(PDFFIGS)
+	$(TEXCMD) $(TEX_OPTS) $*
+
+%.bbl: %.aux $(BIBFILES)
+	bibtex $*
+	$(TEXCMD) $(TEX_OPTS) $*
+
+%.aux: %.tex
+	$(TEXCMD) $(TEX_OPTS) $<
+
+%.tex:   
+	$(TEXCMD) $*
+
+view:
+	$(VIEWCMD) $(PDFTARGET)
+
+clean_aux:
+	rm -fv $(AUXFILES) $(LOGFILES)
+
+clean:
+	rm -fv $(AUXFILES) $(LOGFILES) $(PDFTARGET)
