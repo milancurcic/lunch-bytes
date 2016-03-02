@@ -13,6 +13,5 @@ The makefile_basic folder already contains three figures, the data used to produ
 
 make clean <br />
 make paper <br />
-make view <br />
 
 For a full working version of this material, please make sure you have a latex compiler of your choice installed as well as the following python packages: numpy, matplotlib, pandas, and seaborn.
