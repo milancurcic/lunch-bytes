@@ -17,7 +17,7 @@ Schedule:
 
 * **March 9**: No seminar (Spring recess)
 
-* **March 16**: *Josh Noe - From whaaa?? to ohhhh: Writing maintainable code*
+* **March 16**: *Josh Noe (Mixed in Key Inc.) - From whaaa?? to ohhhh: Writing maintainable code*
 
 * **March 23**:
 
