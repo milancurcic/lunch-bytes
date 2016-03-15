@@ -17,7 +17,7 @@ awful smelly heap of heap allocators you made?
 
 Spasm no more. Let's write code that's built to last. We'll cover:
 
-  * Single Responsibility Principal
+  * Single Responsibility Principle
   * Name things!
   * Use conventions
   * Don't show off
