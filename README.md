@@ -29,6 +29,6 @@ Schedule:
 
 * **April 20**: *Heather Hunter (RSMAS) - Blogging in science*
 
-* **April 27**: *Leo Siqueira (RSMAS) - Parallel programming with Python*
+* **April 27**:
 
 * **May 4**: *Ajda Savarin (RSMAS) - HTML, CSS, Bootstrap*
