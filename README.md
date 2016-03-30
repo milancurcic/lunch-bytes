@@ -21,7 +21,7 @@ Schedule:
 
 * **March 23**: No seminar
 
-* **March 30**: *Holly Perryman (RSMAS) - Word Processors? Ain’t Nobody Got Time For That: An Introduction to LaTeX*
+* **March 30**: *Holly Perryman (RSMAS) - [Word Processors? Ain’t Nobody Got Time For That: An Introduction to LaTeX](https://github.com/milancurcic/lunch-bytes/tree/master/Spring_2016/LB11)*
 
 * **April 6**: *Andrew Smith (RSMAS) - Coordinate systems and transformations*
 
