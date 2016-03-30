@@ -19,7 +19,7 @@ Schedule:
 
 * **March 16**: *Josh Noe (Mixed in Key Inc.) - [From whaaa?? to ohhhh: Writing maintainable code](https://github.com/milancurcic/lunch-bytes/tree/master/Spring_2016/LB10)*
 
-* **March 23**:
+* **March 23**: No seminar
 
 * **March 30**: *Holly Perryman (RSMAS) - Word Processors? Ain’t Nobody Got Time For That: An Introduction to LaTeX*
 
@@ -27,7 +27,7 @@ Schedule:
 
 * **April 13**: *Ray Bell (RSMAS) - Making waves with Wavewatch III*
 
-* **April 20**: *Heather Hunter (RSMAS) - Blogging in science*
+* **April 20**: 
 
 * **April 27**:
 
