@@ -23,12 +23,12 @@ Schedule:
 
 * **March 30**: *Holly Perryman (RSMAS) - [Word Processors? Ain’t Nobody Got Time For That: An Introduction to LaTeX](https://github.com/milancurcic/lunch-bytes/tree/master/Spring_2016/LB11)*
 
-* **April 6**: *Andrew Smith (RSMAS) - Coordinate systems and transformations*
+* **April 6**: *Andrew Smith (RSMAS) - Because it happens on Earth: Introduction to plotting and mapping for geophysical applications in Python*
 
-* **April 13**: *Ray Bell (RSMAS) - Making waves with Wavewatch III*
+* **April 13**:
 
 * **April 20**: 
 
-* **April 27**:
+* **April 27**: *Ray Bell (RSMAS) - Making waves with Wavewatch III*
 
 * **May 4**: *Ajda Savarin (RSMAS) - HTML, CSS, Bootstrap*
