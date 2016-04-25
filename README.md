@@ -29,6 +29,6 @@ Schedule:
 
 * **April 20**: 
 
-* **April 27**: *Ray Bell (RSMAS) - Making waves with Wavewatch III*
+* **April 27**: 
 
 * **May 4**: *Ajda Savarin (RSMAS) - HTML, CSS, Bootstrap*
