@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <!--- THIS IS A COMMENT --->
+  <title> Learning HTML Webpage </title>
+  <style> 
+    body {background-color: #e6f2ff;}
+    h1 {color: green;}
+  </style>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+  <link rel='stylesheet' href='http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css'>
+  <link rel='stylesheet' href='page_template.css'>
+  <meta charset='UTF-8'>
+  <meta http-equiv='refresh' content='30'>
+  <meta name='author' content='me'>
+  <meta name='keywords' content='HTML, ...'>
+  <!--- script> Javascript, Google Analytics, ... </script --->
+  <!--- base href='link_to_base_site/' target='_blank' --->
+</head>
+
+<body>
+<div class='jumbotron'>
+</div>
+<div class='container'>
+<div class='row'>
+<hr><hr>
+</div>
+<div class='row'>
+<div class='col-md-2'>
+<div class='table_of_contents'>
+<h3 id='toc'>Table of Contents </h3>
+<ul>
+  <li> <a href='#flow_ctrl'> Flow</a> </li>
+  <li> <a href='#text_fmt'>Text formatting</a> </li>
+  <li> <a href='#hyperlinks_example'>Hyperlinks</a> </li>
+  <li> <a href='#image_example'>Images</a> </li>
+  <li> <a href='#table_example'>Tables</a> </li>
+  <li> <a href='#list_example'>Lists</a> </li>
+</ul>
+</div> <hr><hr>
+</div>
+<div class='col-md-10'>
+<div class='flow'>
+<h3 id='flow_ctrl'> Flow and White Space Control </h3>
+Here is some text. 
+Here is more text in a new line. 
+
+Now text with an empty line in between.
+<br> 
+How about a new line now?
+<br> <br>
+And an empty line?
+<hr>
+Some more text.
+<p> Text in a paragraph </p>
+<pre> 
+  Doing nothing is hard, 
+  
+  you   never   know
+  
+  when you are done.
+</pre>
+<p> Here is an abbreviation :<abbr title='Bring Your Own Beer'> BYOB </abbr> </p>
+<blockquote> <p> For 50 years, WWF has been protecting the future of nature. The world's leading conservation organization, WWF works in 100 countries and is supported by 1.2 million members in the United States and close to 5 million globally.</p>
+    <footer>From WWF's website</footer>
+</blockquote>
+<p> Here is some code: <code> for f in ./*png; print $f </code> </p>
+<p> Here is cool stuff: Press <kbd> ctrl + alt + del</kbd> for effect. </p>
+</div> <hr><hr>
+</div>
+</div>
+<div class='row'>
+<div class='col-md-4'>
+<div class='text'>
+<h3 id='text_fmt'> Text formatting </h3>
+<h1> This is a level-1 heading </h1> 
+<h2> This is a level-2 heading </h2> 
+Some text after. 
+<h3> This is a level-3 heading </h3> 
+Some text after. 
+<h4> This is a level-4 heading </h4> 
+Some text after. 
+<h5> This is a level-5 heading </h5> 
+Some text after. 
+<h6> This is a level-6 heading </h6> 
+Some text after.
+<p> Here is some text. <br>
+  <b> Here is some text. </b> <= bold <br>
+  <strong> Here is some text. </strong> <= strong <br>
+  <i> Here is some text. </i> <= italicized <br>
+  <em> Here is some text. </em> <= emphasized <br>
+  <small> Here is some text. </small> <= small <br>
+  <mark> Here is some text. </mark> <= highlighted <br>
+  <del> Here is some text. </del> <= strike-through <br>
+  <ins> Here is some text. </ins> <= underlined <br>
+  Here <sub>is</sub> some <sup>text</sup>. <= subscripted and superscripted
+</p>
+</div> <hr><hr>
+</div>
+<div class='col-md-4'>
+<div class='hyperlinks'>
+<h3 id='hyperlinks_example'> Hyperlinks </h3>
+Click <a href='https://en.wikipedia.org/wiki/Game_of_Thrones'> here</a> to go to the Wikipedia page on the Game of Thrones. <br>
+Click <a href='https://en.wikipedia.org/wiki/Game_of_Thrones' target='_blank'> here</a> to go to the Wikipedia page on the Game of Thrones and have it open in a new tab. <br>
+Click <a href='#text_fmt'> here</a> to go to the text formatting part of this page. <br><br><br>
+<p class="bg-primary"> And now responsive buttons! <br> 
+<div class="btn-group">
+  <button type="button" class="btn btn-primary">Apple</button>
+  <button type="button" class="btn btn-primary">Samsung</button>
+  <div class="btn-group">
+    <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">
+    Sony <span class="caret"></span></button>
+    <ul class="dropdown-menu" role="menu">
+      <li><a href="#">Tablet</a></li>
+      <li><a href="#">Smartphone</a></li>
+    </ul>
+  </div>
+</div>
+</p>
+</div> <hr><hr>
+</div>
+<div class='col-md-4'>
+<div class='images'>
+<h3 id='image_example'> Inserting Images </h3>
+Image of a puffin (from an online source) <br> 
+<img src='https://upload.wikimedia.org/wikipedia/commons/8/8c/Puffin_Latrabjarg_Iceland.jpg' width=600 alt='Puffin from the web'> <br>
+Image from a local source <br>
+<img src='path_to_local_image.png' alt='Alternative text - no image' width='20%' height=200 > <br>
+</div> <hr><hr>
+</div>
+</div>
+<div class='row'>
+<div class='col-md-12'>
+<div class='table'>
+<h3 id='table_example'> Adding Tables </h3>
+<table border=5 bordercolor='red' class='table-hover'>
+  <caption> Process of Mitosis </caption>
+  <col width=150>
+  <col width=150>
+  <col width=150>
+  <col width=150>
+  <col width=150>
+  <col width=150>
+  <col width=150>
+  <tr>
+    <th> Interphase </th>
+    <th> Prophase </th>
+    <th> Prometaphase </th>
+    <th> Metaphase </th>
+    <th> Anaphase </th>
+    <th> Telophasephase </th>
+    <th> Cytokinesis </th>
+  </tr>
+    <td> <img src='./fig/mito-1.png' width=150 height=420> </td>
+    <td> <img src='./fig/mito-2.png' width=150 height=420> </td>
+    <td> <img src='./fig/mito-3.png' width=150 height=420> </td>
+    <td> <img src='./fig/mito-4.png' width=150 height=420> </td>
+    <td> <img src='./fig/mito-5.png' width=150 height=420> </td>
+    <td> <img src='./fig/mito-6.png' width=150 height=420> </td>
+    <td> <img src='./fig/mito-7.png' width=150 height=420> </td>
+  <tr>
+  </tr>
+    <td> Some description here </td>
+    <td>  </td>
+    <td bgcolor=#00ff00> Previous cell was empty </td>
+    <td> Content fits into cell width </td>
+    <td align='right'> Let's not define the last two cells </td>
+  <tr>
+  </tr>
+</table>
+</div> <hr><hr>
+</div>
+</div>
+<div class='row'>
+<div class='col-md-12'>
+<div class='lists'>
+<h3 id='list_example'> Inserting lists </h3>
+<table>
+  <caption> A few of my favourite things: </caption>
+  <tr>
+    <td width=400> 
+      <ol> An ordered list:
+        <li> Raindrops on roses </li>
+        <li> Whiskers on kittens </li>
+        <li> Bright copper kettles </li>
+        <li> Warm woolen mittens </li>
+        <li> Brown paper packages tied up with strings </li>
+      </ol>
+    </td>
+    <td> <img src='http://digitalspyuk.cdnds.net/15/43/1280x934/gallery-rexfeatures-1636382a.jpg' width=200> </td>
+    <td width=400> 
+      <ul> An unorderd list:
+        <li> Cream colored ponies </li>
+        <li> Crisp apple streudles </li>
+        <li> Doorbels and seigh bells </li>
+        <li> Schnitzel with noodles </li>
+        <li> White geese that fly with the moon on their wings </li>
+      </ul>
+    </td>
+  </tr>
+</table>
+</div> <hr><hr>
+</div>
+</div>
+</div>
+
+
+
+</body>
+</html>
+
+

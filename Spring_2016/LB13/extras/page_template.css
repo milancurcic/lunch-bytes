@@ -1,0 +1,110 @@
+/* THIS IS A CSS COMMENT */
+a:link {
+  color: #333;
+}
+a:visited {
+  color: #333;
+  text-decoration: none;
+}
+a:active {
+  color: blue;
+  text-decoration: none;
+}
+a:hover {
+  color: orange;
+  text-decoration: none;
+}
+
+body {
+  background-color: #ffffff;
+}
+
+div {}
+
+h1, h2, h3, h4, h5, h6 {}
+
+hr {
+  width: 100%;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: solid;
+  border-width: 2px;
+  border-color: green;
+}
+
+.images img {
+  border-radius: 10%;
+  border: 1px solid #ddd;
+  padding: 5px;
+  max-width: 100%;
+  height: auto;
+}
+
+li {}
+
+ol {}
+
+p {}
+
+pre {}
+
+table {
+  border: 1px solid black;
+  border-collapse: collapse;
+  vertical-align: middle;
+  padding: 10px;
+}
+
+td {}
+
+th {}
+
+tr {}
+
+ul {
+  list-style-type: circle;
+  list-style-position: inside;
+  padding-left: 100px;
+  margin: 10px;
+}
+
+.table_of_contents {
+  font-variant: small-caps;
+  font-family: Verdana;
+  font-size: 18px;
+}
+.table_of_contents ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 140px;
+  background-color: #f1f1f1;
+  text-align: center;
+}
+.table_of_contents li a {
+  display: block;
+  padding: 8px 0 8px 16px;
+  text-decoration: none;
+}
+.table_of_contents a:hover {
+  background-color: #555555;
+  color: white;
+}
+
+.jumbotron {
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/b/be/Kukenan_Roraima_GS.jpg);
+  background-repeat: no-repeat;
+	background-size: cover;
+  width: 100%;
+  height:500px;
+}
+
+.col-md-12 {
+  border: 3px red dashed;
+}
+
+.col-md-4 {
+  border: 2px green dotted;
+}

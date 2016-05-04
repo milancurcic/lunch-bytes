@@ -31,4 +31,4 @@ Schedule:
 
 * **April 27**: 
 
-* **May 4**: *Ajda Savarin (RSMAS) - HTML, CSS, Bootstrap*
+* **May 4**: *Ajda Savarin (RSMAS) - [Building websites with HTML, CSS, and Bootstrap](https://github.com/milancurcic/lunch-bytes/tree/master/Spring_2016/LB13)*
