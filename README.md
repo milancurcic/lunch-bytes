@@ -25,3 +25,8 @@ MSC 343, every Friday, 12-1 pm.
 * **November 16**: TBD
 * **November 30**: TBD
 * **December 7**: TBD
+
+## Past seminars
+
+* [Fall 2015](https://github.com/milancurcic/lunch-bytes/tree/master/Fall_2015)
+* [Spring 2016](https://github.com/milancurcic/lunch-bytes/tree/master/Spring_2016)
