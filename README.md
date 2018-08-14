@@ -14,7 +14,7 @@ MSC 343, every Friday, 12-1 pm.
 * **August 24**: TBD
 * **August 31**: TBD
 * **September 7**: TBD
-* **September 14**: TBD
+* **September 14**: Natalie Perlin (TBD)
 * **September 21**: TBD
 * **September 28**: TBD
 * **October 5**: Heather Hunter (TBD)
