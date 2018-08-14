@@ -17,7 +17,7 @@ MSC 343, every Friday, 12-1 pm.
 * **September 14**: TBD
 * **September 21**: TBD
 * **September 28**: TBD
-* **October 5**: TBD
+* **October 5**: Heather Hunter (TBD)
 * **October 12**: TBD
 * **October 26**: TBD
 * **November 2**: TBD
