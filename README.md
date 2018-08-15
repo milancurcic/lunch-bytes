@@ -11,7 +11,7 @@ MSC 343, every Friday, 12-1 pm.
 
 ## Schedule
 
-* **August 24**: TBD
+* **August 24**: Ray Bell (TBD)
 * **August 31**: TBD
 * **September 7**: TBD
 * **September 14**: Natalie Perlin (TBD)
