@@ -26,6 +26,10 @@ MSC 343, every Friday, 12-1 pm.
 * **November 30**: TBD
 * **December 7**: TBD
 
+## Contributing
+
+Please create a folder for your seminar and upload any slides (ideally pdf), codes and environmental files.
+
 ## Past seminars
 
 * [Fall 2015](https://github.com/milancurcic/lunch-bytes/tree/master/Fall_2015)
