@@ -28,7 +28,7 @@ MSC 343, every Friday, 12-1 pm.
 
 ## Contributing
 
-Please create a folder for your seminar and upload any slides (ideally pdf), codes and environmental files.
+Please create a folder for your seminar and upload any slides (ideally pdf), codes and environmental files as well as a README file.
 
 ## Past seminars
 
