@@ -11,7 +11,7 @@ MSC 343, every Friday, 12-1 pm.
 
 ## Schedule
 
-* **August 24**: Ray Bell -- Intro to Python
+* **August 24**: Ray Bell -- [Intro to Python](https://github.com/milancurcic/lunch-bytes/tree/master/py_intro)
 * **August 31**: Suvarchal Kumar (TBD)
 * **September 7**: TBD
 * **September 14**: Natalie Perlin (TBD)
