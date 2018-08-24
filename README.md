@@ -26,9 +26,16 @@ MSC 343, every Friday, 12-1 pm.
 * **November 30**: TBD
 * **December 7**: TBD
 
+## Presenter Guidelines
+
+* The seminar should be 45 minutes or shorter.
+* Decide between show and tell vs. live code with teaching. The latter will consume a lot of time so make sure you account for that.
+* Welcome to ask @milancurcic or @raybellwaves for feedback before and/or after the seminar.
+* Any format welcome! Slides, live-code, whiteboard, or just your voice.
+
 ## Contributing
 
-Please create a folder for your seminar as LBXX and upload any slides (ideally pdf), codes and environmental files as well as a README file.
+Please create a folder for your seminar as LBXX and upload any contents (e.g. slides (pdf's can be read on GitHub), codes, environmental files as well as a README file).
 
 ## See also
 
