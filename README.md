@@ -30,6 +30,10 @@ MSC 343, every Friday, 12-1 pm.
 
 Please create a folder for your seminar as LBXX and upload any slides (ideally pdf), codes and environmental files as well as a README file.
 
+## See also
+
+[Guidance of live coding by swcarpentry](http://swcarpentry.github.io/swc-releases/2017.02/instructor-training/13-live/)
+
 ## Past seminars
 
 * [Fall 2015](https://github.com/milancurcic/lunch-bytes/tree/master/Fall_2015)
