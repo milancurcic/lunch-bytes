@@ -16,7 +16,7 @@ MSC 343, every Friday, 12-1 pm.
 * **September 7**: TBD
 * **September 14**: Natalie Perlin (TBD)
 * **September 21**: TBD
-* **September 28**: TBD
+* **September 28**: Johnna Infanti -- NCAR Command Language
 * **October 5**: Heather Hunter (TBD)
 * **October 12**: TBD
 * **October 26**: TBD
