@@ -1,9 +1,7 @@
 # Lunch Bytes
 
-Lunch Bytes - a UM/RSMAS computing seminar series 
-that aim to provide an informal forum for RSMAS students, 
-researchers, and faculty to discuss and exchange knowledge
-on various computing topics, tools, and programming languages.
+Lunch Bytes are a computing seminar series that aim to provide an informal forum for RSMAS students, 
+researchers, and faculty to discuss and exchange knowledge on various computing topics, tools, and programming languages.
 
 ## Where and when:
 
