@@ -13,7 +13,7 @@ MSC 343, every Friday, 12-1 pm.
 
 * **August 24**: Ray Bell -- [Intro to Python](https://github.com/milancurcic/lunch-bytes/tree/master/Fall_2018/LB14)
 * **August 31**: Suvarchal Kumar -- [Hosting and managing your geophysical datasets](https://github.com/milancurcic/lunch-bytes/tree/master/Fall_2018/LB15)
-* **September 7**: TBD
+* **September 7**: Brian McNoldy (TBD)
 * **September 14**: Natalie Perlin (TBD)
 * **September 21**: TBD
 * **September 28**: Johnna Infanti -- NCAR Command Language
