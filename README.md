@@ -13,7 +13,7 @@ MSC 343, every Friday, 12-1 pm.
 * **August 31**: Suvarchal Kumar (RSMAS/UM) -- [Hosting and managing your geophysical datasets](https://github.com/milancurcic/lunch-bytes/tree/master/Fall_2018/LB15)
 * **September 7**: Brian McNoldy (RSMAS/UM) -- [Sharing Science with Scientists and the Public](https://github.com/milancurcic/lunch-bytes/tree/master/Fall_2018/LB16)
 * **September 14**: Natalie Perlin (TBD)
-* **September 21**: TBD
+* **September 21**: Tim Norris (UM Libraries/CCS) -- Intro to parallel computing with Dask
 * **September 28**: Johnna Infanti -- NCAR Command Language
 * **October 5**: Heather Hunter (TBD)
 * **October 12**: TBD
