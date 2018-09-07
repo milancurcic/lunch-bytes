@@ -26,10 +26,9 @@ MSC 343, every Friday, 12-1 pm.
 
 ## Presenter Guidelines
 
-* The seminar should be 45 minutes or shorter.
-* Decide between show and tell vs. live code with teaching. The latter will consume a lot of time so make sure you account for that.
-* Welcome to ask @milancurcic or @raybellwaves for feedback before and/or after the seminar.
-* Any format welcome! Slides, live-code, whiteboard, or just your voice.
+* Any format welcome! Slides, live coding, whiteboard, or just your voice.
+* 45 minutes or shorter.
+* Feel free to ask us for feedback!
 
 ## Contributing
 
@@ -37,7 +36,7 @@ Please create a folder for your seminar as LBXX and upload any contents (e.g. sl
 
 ## See also
 
-[Guidance of live coding by swcarpentry](http://swcarpentry.github.io/swc-releases/2017.02/instructor-training/13-live/)
+[Live coding guide by Software Carpentry](http://swcarpentry.github.io/swc-releases/2017.02/instructor-training/13-live/)
 
 ## Past seminars
 
