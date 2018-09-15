@@ -9,13 +9,13 @@ MSC 343, every Friday, 12 pm.
 
 ## Schedule
 
-* **August 24**: Ray Bell (RSMAS/UM) -- [Intro to Python](https://github.com/milancurcic/lunch-bytes/tree/master/Fall_2018/LB14)
-* **August 31**: Suvarchal Kumar (RSMAS/UM) -- [Hosting and managing your geophysical datasets](https://github.com/milancurcic/lunch-bytes/tree/master/Fall_2018/LB15)
-* **September 7**: Brian McNoldy (RSMAS/UM) -- [Sharing Science with Scientists and the Public](https://github.com/milancurcic/lunch-bytes/tree/master/Fall_2018/LB16)
-* **September 14**: Natalie Perlin (RSMAS/UM) -- [Introduction to the UM/Center for Computational Science resources and Pegasus supercomputer](https://github.com/milancurcic/lunch-bytes/tree/master/Fall_2018/LB17)
-* **September 21**: Tim Norris (UM Libraries/CCS) -- Intro to parallel computing with Dask
-* **September 28**: Johnna Infanti -- NCAR Command Language
-* **October 5**: Heather Hunter (TBD)
+* **August 24**: *Ray Bell (RSMAS/UM) -- [Intro to Python](https://github.com/milancurcic/lunch-bytes/tree/master/Fall_2018/LB14)*
+* **August 31**: *Suvarchal Kumar (RSMAS/UM) -- [Hosting and managing your geophysical datasets](https://github.com/milancurcic/lunch-bytes/tree/master/Fall_2018/LB15)*
+* **September 7**: *Brian McNoldy (RSMAS/UM) -- [Sharing Science with Scientists and the Public](https://github.com/milancurcic/lunch-bytes/tree/master/Fall_2018/LB16)*
+* **September 14**: *Natalie Perlin (RSMAS/UM) -- [Introduction to the UM/Center for Computational Science resources and Pegasus supercomputer](https://github.com/milancurcic/lunch-bytes/tree/master/Fall_2018/LB17)*
+* **September 21**: *Tim Norris (UM Libraries/CCS) -- Intro to parallel computing with Dask*
+* **September 28**: *Johnna Infanti (RSMAS/UM & UCAR) -- Intro to NCL, the NCAR Command Language*
+* **October 5**: *Heather Hunter (RSMAS/UM) -- Title TBD*
 * **October 12**: TBD
 * **October 26**: TBD
 * **November 2**: TBD
