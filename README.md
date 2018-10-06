@@ -9,14 +9,14 @@ MSC 343, every Friday, 12 pm.
 
 ## Schedule
 
-* **August 24**: *Ray Bell (RSMAS/UM) -- [Intro to Python](https://github.com/milancurcic/lunch-bytes/tree/master/Fall_2018/LB14)*
-* **August 31**: *Suvarchal Kumar (RSMAS/UM) -- [Hosting and managing your geophysical datasets](https://github.com/milancurcic/lunch-bytes/tree/master/Fall_2018/LB15)*
+* **August 24**: *Ray Bell (@raybellwaves, RSMAS/UM) -- [Intro to Python](https://github.com/milancurcic/lunch-bytes/tree/master/Fall_2018/LB14)*
+* **August 31**: *Suvarchal Kumar (@suvarchal, RSMAS/UM) -- [Hosting and managing your geophysical datasets](https://github.com/milancurcic/lunch-bytes/tree/master/Fall_2018/LB15)*
 * **September 7**: *Brian McNoldy (RSMAS/UM) -- [Sharing Science with Scientists and the Public](https://github.com/milancurcic/lunch-bytes/tree/master/Fall_2018/LB16)*
 * **September 14**: *Natalie Perlin (RSMAS/UM) -- [Introduction to the UM/Center for Computational Science resources and Pegasus supercomputer](https://github.com/milancurcic/lunch-bytes/tree/master/Fall_2018/LB17)*
-* **September 21**: *Tim Norris (UM Libraries/CCS) -- [Intro to parallel computing with Python: Dask and Concurrent Futures](https://github.com/milancurcic/lunch-bytes/tree/master/Fall_2018/LB18)*
+* **September 21**: *Tim Norris (@tibbben, UM Libraries/CCS) -- [Intro to parallel computing with Python: Dask and Concurrent Futures](https://github.com/milancurcic/lunch-bytes/tree/master/Fall_2018/LB18)*
 * **September 28**: *Johnna Infanti (RSMAS/UM & UCAR) -- [Introduction to NCAR Command Language (NCL) for Climate Data Analysis](https://github.com/milancurcic/lunch-bytes/tree/master/Fall_2018/LB19)*
 * **October 5**: *Heather Hunter (RSMAS/UM) -- [Applying Machine Learning to Satellite Remote Sensing Data](https://github.com/milancurcic/lunch-bytes/tree/master/Fall_2018/LB20)*
-* **October 12**: TBD
+* **October 12**: *Philippe Miron (@tuxication, RSMAS/UM) -- Plotting with Python & Matplotlib, exact title TBD*
 * **October 26**: TBD
 * **November 2**: TBD
 * **November 9**: TBD
