@@ -16,7 +16,7 @@ MSC 343, every Friday, 12 pm.
 * **September 21**: *Tim Norris (@tibbben, UM Libraries/CCS) -- [Intro to parallel computing with Python: Dask and Concurrent Futures](https://github.com/milancurcic/lunch-bytes/tree/master/Fall_2018/LB18)*
 * **September 28**: *Johnna Infanti (RSMAS/UM & UCAR) -- [Introduction to NCAR Command Language (NCL) for Climate Data Analysis](https://github.com/milancurcic/lunch-bytes/tree/master/Fall_2018/LB19)*
 * **October 5**: *Heather Hunter (RSMAS/UM) -- [Applying Machine Learning to Satellite Remote Sensing Data](https://github.com/milancurcic/lunch-bytes/tree/master/Fall_2018/LB20)*
-* **October 12**: *Philippe Miron (@tuxication, RSMAS/UM) -- Plotting with Python & Matplotlib, exact title TBD*
+* **October 12**: *Philippe Miron (@tuxication, RSMAS/UM) -- [Making beautiful plots with Python's matplotlib](https://github.com/milancurcic/lunch-bytes/tree/master/Fall_2018/LB21)*
 * **October 26**: TBD
 * **November 2**: TBD
 * **November 9**: TBD
