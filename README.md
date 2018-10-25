@@ -17,7 +17,7 @@ MSC 343, every Friday, 12 pm.
 * **September 28**: *Johnna Infanti (RSMAS/UM & UCAR) -- [Introduction to NCAR Command Language (NCL) for Climate Data Analysis](https://github.com/milancurcic/lunch-bytes/tree/master/Fall_2018/LB19)*
 * **October 5**: *Heather Hunter (RSMAS/UM) -- [Applying Machine Learning to Satellite Remote Sensing Data](https://github.com/milancurcic/lunch-bytes/tree/master/Fall_2018/LB20)*
 * **October 12**: *Philippe Miron (@tuxication, RSMAS/UM) -- [Making beautiful plots with Python's matplotlib](https://github.com/milancurcic/lunch-bytes/tree/master/Fall_2018/LB21)*
-* **October 26**: TBD
+* **October 26**: *Matt Grossi (RSMAS/UM) -- [Peeking under the hood of an artificial neural network](https://github.com/milancurcic/lunch-bytes/tree/master/Fall_2018/LB22)*
 * **November 2**: TBD
 * **November 9**: TBD
 * **November 16**: TBD
