@@ -21,7 +21,7 @@ MSC 343, every Friday, 12 pm.
 * **November 9**: *Brian Mapes (RSMAS/UM) -- Load don’t code: Online analysis using NASA Giovanni, Climate Explorer, and more*
 * **November 16**: TBD
 * **November 30**: TBD
-* **December 7**: TBD
+* **December 7**: *Patrick Rynne (Waterlust) -- Title TBD*
 
 ## Presenter Guidelines
 
