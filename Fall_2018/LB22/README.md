@@ -1,3 +1,6 @@
+[Slides](https://github.com/milancurcic/lunch-bytes/tree/master/Fall_2018/LB22/NeuralNetworks2018.pdf) |
+[Notebook](https://github.com/milancurcic/lunch-bytes/tree/master/Fall_2018/LB22/NeuralNetDemo.ipynb)
+
 **Speaker**: Matt Grossi (RSMAS/UM)
 
 **Title**: Peeking under the hood of an artificial neural network
