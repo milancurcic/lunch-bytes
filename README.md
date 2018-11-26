@@ -19,8 +19,7 @@ MSC 343, every Friday, 12 pm.
 * **October 12**: *Philippe Miron (@tuxication, RSMAS/UM) -- [Making beautiful plots with Python's matplotlib](https://github.com/milancurcic/lunch-bytes/tree/master/Fall_2018/LB21)*
 * **October 26**: *Matt Grossi (RSMAS/UM) -- [Peeking under the hood of an artificial neural network](https://github.com/milancurcic/lunch-bytes/tree/master/Fall_2018/LB22)*
 * **November 9**: *Brian Mapes (RSMAS/UM) -- [Load, don’t code: Online analysis using NASA Giovanni, Climate Explorer, and more](https://github.com/milancurcic/lunch-bytes/tree/master/Fall_2018/LB23)*
-* **November 16**: TBD
-* **November 30**: TBD
+* **November 30**: *Yu Gao (RSMAS/UM) -- Title TBD (Python Pandas)*
 * **December 7**: *Patrick Rynne (Waterlust) -- Title TBD*
 
 ## Presenter Guidelines
