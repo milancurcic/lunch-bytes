@@ -1,6 +1,6 @@
 **Speaker**: Patrick Rynne (Waterlust)
 
-**Title**: Load, don’t code: Online plotting and analysis using NASA Giovanni, KNMI Climate Explorer, NOAA PSD pages, or LDEO Ingrid 
+**Title**: What I've learned from Waterlust: Launching your passion project while in graduate school and turning it into a career...hopefully
 
 **Abstract**: Graduate school offers students a unique period of time to develop 
 “passion projects” that are related to their research. Despite academic commitments 
