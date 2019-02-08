@@ -35,6 +35,6 @@ Please create a folder for your seminar as LBXX and upload any contents (e.g. sl
 
 ## Past seminars
 
-* [Fall 2015](https://github.com/milancurcic/lunch-bytes/tree/master/Fall_2015)
-* [Spring 2016](https://github.com/milancurcic/lunch-bytes/tree/master/Spring_2016)
-* [Fall 2018](https://github.com/milancurcic/lunch-bytes/tree/master/Fall_2018)
+* [Fall 2015](Fall_2015)
+* [Spring 2016](Spring_2016)
+* [Fall 2018](Fall_2018)
