@@ -1,4 +1,4 @@
-# Lunch Bytes
+# Lunch Bytes <img src="assets/lunch-bytes-logo.jpg" height=40 width=40></img>
 
 Lunch Bytes are a computing seminar series that aim to provide an informal forum for RSMAS students, 
 researchers, and faculty to discuss and exchange knowledge on various computing topics, tools, and programming languages.
