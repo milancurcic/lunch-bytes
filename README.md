@@ -13,7 +13,7 @@ MSC 343, every Friday, 12 pm.
 * **February 22**: TBD
 * **March 8**: TBD
 * **March 15**: Tiago Bilo (RSMAS/UM) -- Parallel computing with Python and MPI
-* **March 22**: Gao Yu (RSMAS/UM) -- TBD
+* **March 22**: Yu Gao (RSMAS/UM) -- TBD
 * **March 29**: Joseph Anderson (RSMAS/UM) -- Tutorial on Tensorflow and neural nets for Earth sciences
 * **April 5**: TBD
 * **April 19**: TBD
