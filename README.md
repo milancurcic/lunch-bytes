@@ -9,8 +9,7 @@ MSC 343, every Friday, 12 pm.
 
 ## Schedule
 
-* **February 15**: TBD
-* **February 22**: TBD
+* **February 22**: Milan Curcic (RSMAS/UM) -- Introduction to cloud computing
 * **March 8**: TBD
 * **March 15**: Tiago Bilo (RSMAS/UM) -- Parallel computing with Python and MPI
 * **March 22**: Yu Gao (RSMAS/UM) -- TBD
