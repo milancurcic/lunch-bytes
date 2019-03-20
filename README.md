@@ -10,7 +10,7 @@ MSC 343, Fridays at 12 pm.
 ## Schedule
 
 * **February 22**: Milan Curcic (RSMAS/UM) -- [Introduction to cloud computing](https://github.com/milancurcic/lunch-bytes/tree/master/Spring_2019/LB25)
-* **March 22**: Yu Gao (RSMAS/UM) -- TBD
+* **March 22**: Yu Gao (RSMAS/UM) -- [Data analysis with Pandas Dataframe: Live coding for beginners](https://github.com/milancurcic/lunch-bytes/tree/master/Spring_2019/LB26)
 * **April 5**: Joseph Anderson (RSMAS/UM) -- Tutorial on Tensorflow and neural nets for Earth sciences
 * **April 19**: Kayla Besong (RSMAS/UM) -- Python xarray or cpython TBD
 * **April 26**: TBD
