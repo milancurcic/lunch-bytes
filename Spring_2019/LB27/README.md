@@ -14,6 +14,8 @@ for deep learning (among other things). I hope to answer questions about
 TensorFlow such as: What are the benefits? How can I visualize my network 
 performance? Can TensorFlow speed up my development time? 
 
+[Notebook with exercises](tensorflow_exercise.ipynb)
+
 **When**: Friday, April 5, 12 pm.
 
 **Where**: MSC 343 (classroom closest to the elevator)
