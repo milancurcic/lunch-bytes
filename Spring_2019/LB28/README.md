@@ -1,6 +1,8 @@
 **Speaker**: David Grossman (CG/UM)
 
-**Title**: Parallel Computing in Python with Dask on Pegasus
+**Title**: Parallel Computing in Python with Dask on Pegasus 
+
+[Slides](https://github.com/2gotgrossman/dask-rsmas-presentation)
 
 **Abstract**: You’ve built THE program that will change how we study 
 volcanic prediction in the northern tip of Isabela Island. There’s 
