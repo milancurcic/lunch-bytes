@@ -1,3 +1,5 @@
+[Jupyter noteboook](Pandas_dataframe_tutorial.ipynb)
+
 **Speaker**: Yu Gao (RSMAS/UM)
 
 **Title**: Data analysis with Pandas Dataframe: Live coding for beginners
