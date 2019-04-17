@@ -13,7 +13,7 @@ MSC 343, Fridays at 12 pm.
 * **March 22**: Yu Gao (RSMAS/UM) -- [Data analysis with Pandas Dataframe: Live coding for beginners](https://github.com/milancurcic/lunch-bytes/tree/master/Spring_2019/LB26)
 * **April 5**: Joseph Anderson (RSMAS/UM) -- [Neural Networks and TensorFlow: A Gentle Introduction](https://github.com/milancurcic/lunch-bytes/tree/master/Spring_2019/LB27)
 * **April 12**: David Grossman (CG/UM) -- [Parallel Computing in Python with Dask on Pegasus](https://github.com/milancurcic/lunch-bytes/tree/master/Spring_2019/LB28)
-* **April 19**: Kayla Besong (RSMAS/UM) -- Python xarray or cpython TBD
+* **April 19**: Kayla Besong (RSMAS/UM) -- [Xarray: An Introduction to Python's Labeled Array Package](https://github.com/milancurcic/lunch-bytes/tree/master/Spring_2019/LB29)
 * **April 26**: TBD
 
 ## Presenter Guidelines
