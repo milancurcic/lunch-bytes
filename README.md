@@ -14,7 +14,7 @@ MSC 343, Fridays at 12 pm.
 * **April 5**: Joseph Anderson (RSMAS/UM) -- [Neural Networks and TensorFlow: A Gentle Introduction](https://github.com/milancurcic/lunch-bytes/tree/master/Spring_2019/LB27)
 * **April 12**: David Grossman (CG/UM) -- [Parallel Computing in Python with Dask on Pegasus](https://github.com/milancurcic/lunch-bytes/tree/master/Spring_2019/LB28)
 * **April 19**: Kayla Besong (RSMAS/UM) -- [Xarray: An Introduction to Python's Labeled Array Package](https://github.com/milancurcic/lunch-bytes/tree/master/Spring_2019/LB29)
-* **April 26**: TBD
+* **May 3**: Kelsey Malloy (RSMAS/UM) -- TBD
 
 ## Presenter Guidelines
 
