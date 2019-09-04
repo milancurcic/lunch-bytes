@@ -14,7 +14,7 @@ MSC 343, Fridays at 12 pm.
 * **September 27**: Available
 * **October 4**: Available
 * **October 11**: Available
-* **October 25**: Available
+* **October 25**: Available (**MSC 329**)
 * **November 1**: Available
 * **November 8**: Available
 * **November 15**: Available
