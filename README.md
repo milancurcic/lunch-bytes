@@ -17,7 +17,7 @@ MSC 343, Fridays at 12 pm.
 * **October 25**: Available (**MSC 329**)
 * **November 1**: Available
 * **November 8**: Available
-* **November 15**: Available
+* **November 15**: Kayla Besong (RSMAS/ATM) -- Title TBD
 * **November 22**: Available
 
 ## Presenter Guidelines
