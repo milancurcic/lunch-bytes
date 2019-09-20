@@ -9,9 +9,7 @@ MSC 343, Fridays at 12 pm.
 
 ## Schedule
 
-* **September 13**: Available
-* **September 20**: Available
-* **September 27**: Available
+* **September 27**: Milan Curcic (RSMAS/OCE) -- Title TBD
 * **October 4**: Available
 * **October 11**: Available
 * **October 25**: Available (**MSC 329**)
