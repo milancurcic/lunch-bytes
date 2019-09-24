@@ -9,8 +9,8 @@ MSC 343, Fridays at 12 pm.
 
 ## Schedule
 
-* **September 27**: Milan Curcic (RSMAS/OCE) -- Title TBD
-* **October 4**: Available
+* **September 27**: Milan Curcic (RSMAS/OCE) -- Productivity with Notion
+* **October 4**: Brian Mapes (RSMAS/ATM) -- NASA meets Big Data: What's new this year
 * **October 11**: Available
 * **October 25**: Available (**MSC 329**)
 * **November 1**: Available
