@@ -15,7 +15,7 @@ MSC 343, Fridays at 12 pm.
 * **October 25**: Available (**MSC 329**)
 * **November 1**: Available
 * **November 8**: Tiago Bilo (RSMAS/OCE) -- Title TBD
-* **November 15**: Kayla Besong (RSMAS/ATM) -- Title TBD
+* **November 15**: Kayla Besong (RSMAS/ATM) -- Breaking up with Basemap: upgrading to Cartopy for mapping basics in Python
 * **November 22**: Grant Basham (RSMAS Computing Facility) -- Title TBD
 
 ## Presenter Guidelines
