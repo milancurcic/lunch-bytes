@@ -11,9 +11,6 @@ MSC 343, Fridays at 12 pm.
 
 * **September 27**: Milan Curcic (RSMAS/OCE) -- Productivity with Notion
 * **October 4**: Brian Mapes (RSMAS/ATM) -- [NASA's data services: Better and better](https://github.com/milancurcic/lunch-bytes/tree/master/Fall_2019/LB31)
-* **October 11**: Available
-* **October 25**: Available (**MSC 329**)
-* **November 1**: Available
 * **November 8**: Tiago Bilo (RSMAS/OCE) -- Title TBD
 * **November 15**: Kayla Besong (RSMAS/ATM) -- Breaking up with Basemap: upgrading to Cartopy for mapping basics in Python
 * **November 22**: Grant Basham (RSMAS Computing Facility) -- Title TBD
